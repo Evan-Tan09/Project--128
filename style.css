@@ -1,0 +1,15 @@
+#stripea {
+    background-color: #ff0000;
+}
+
+#stripeb {
+    background-color: #00ff00;
+}
+
+.copy_right_footer {
+    bottom: 0;
+    position: fixed;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
